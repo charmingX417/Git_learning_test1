@@ -1,0 +1,5 @@
+﻿  21.cpp
+C:\Users\asus\source\repos\lxw(c++)\STL案例2\21.cpp(60,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\STL案例2\21.cpp(72,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\STL案例2\21.cpp(82,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  STL案例2.vcxproj -> C:\Users\asus\source\repos\lxw(c++)\x64\Debug\STL案例2.exe

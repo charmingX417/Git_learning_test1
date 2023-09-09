@@ -1,0 +1,114 @@
+﻿  综合四时钟.cpp
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(30,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(30,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(76,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(76,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(76,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(76,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(82,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(82,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(82,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(102,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(102,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(102,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(102,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(111,63): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(111,63): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(111,124): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(111,124): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(112,69): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(112,69): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(112,134): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(112,134): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(113,82): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(113,82): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(113,154): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(113,154): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(118,63): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(118,63): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(118,124): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(118,124): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(119,69): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(119,69): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(119,134): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(119,134): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(120,82): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(120,82): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(120,154): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(120,154): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(126,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(127,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(128,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(137,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(137,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(149,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(149,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(149,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(149,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(152,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(152,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(158,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(158,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(158,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(158,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(168,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(168,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(168,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(168,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(172,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(172,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(178,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(178,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(178,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(178,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(188,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(188,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(188,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(188,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(195,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(195,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(195,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(195,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(200,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(200,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(205,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(205,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(205,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(205,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(216,74): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(216,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(216,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(216,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(217,25): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(217,25): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(217,39): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(217,39): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(217,53): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(217,53): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(217,68): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(217,68): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(219,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(219,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(219,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(219,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(220,26): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(220,26): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(220,39): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(220,39): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(220,53): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(220,53): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(220,67): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(220,67): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(222,74): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(222,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(222,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(222,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(223,26): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(223,26): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(223,41): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(223,41): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(223,55): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(223,55): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(223,70): warning C4838: 从“double”转换到“LONG”需要收缩转换
+C:\Users\asus\source\repos\lxw(c++)\综合4时钟\综合四时钟.cpp(223,70): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+  综合4时钟.vcxproj -> C:\Users\asus\source\repos\lxw(c++)\x64\Debug\综合4时钟.exe
